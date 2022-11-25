@@ -2,7 +2,7 @@ package _12_flyweight_pattern;
 
 /**
 * @author 	: lyndon
-* @Email 	: zhao.lindong@zhgtv.cn
+* @Email 	: lindong4067
 * @date		: 2017年11月23日	
 * @time 	: 上午11:15:47
 * @version 	: V-0.0.1

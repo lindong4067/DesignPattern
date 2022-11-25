@@ -1,7 +1,7 @@
 package _13_proxy_pattern;
 /**
 * @author 	: lyndon
-* @Email 	: zhao.lindong@zhgtv.cn
+* @Email 	: lindong4067
 * @date		: 2017年11月24日	
 * @time 	: 上午9:10:34
 * @version 	: V-0.0.1

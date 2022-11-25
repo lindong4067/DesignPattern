@@ -1,7 +1,7 @@
 package _08_filter_pattern;
 /**
 * @author 	: lyndon
-* @Email 	: zhao.lindong@zhgtv.cn
+* @Email 	: lindong4067
 * @date		: 2017年11月22日	
 * @time 	: 下午2:35:35
 * @version 	: V-0.0.1

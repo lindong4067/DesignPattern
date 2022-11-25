@@ -1,7 +1,7 @@
 package _05_prototype_pattern;
 /**
 * @author 	: lyndon
-* @Email 	: zhao.lindong@zhgtv.cn
+* @Email 	: lindong4067
 * @date		: 2017年11月21日	
 * @time 	: 下午2:15:20
 * @version 	: V-0.0.1

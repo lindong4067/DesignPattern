@@ -5,7 +5,7 @@ import java.util.List;
 
 /**
 * @author 	: lyndon
-* @Email 	: zhao.lindong@zhgtv.cn
+* @Email 	: lindong4067
 * @date		: 2017年11月21日	
 * @time 	: 上午10:51:49
 * @version 	: V-0.0.1

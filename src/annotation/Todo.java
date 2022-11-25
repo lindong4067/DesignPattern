@@ -7,7 +7,7 @@ import java.lang.annotation.Target;
 
 /**
 * @author 	: lyndon
-* @Email 	: zhao.lindong@zhgtv.cn
+* @Email 	: lindong4067
 * @date		: 2017年11月30日	
 * @time 	: 上午11:52:26
 * @version 	: V-0.0.1
